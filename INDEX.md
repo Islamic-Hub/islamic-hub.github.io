@@ -16,10 +16,10 @@
 * [Fundamental Beliefs](/islamic-sciences/general-studies/fundamentals/fundamentals.md) - some articles of fundamental Islamic beliefs
 * [General Studies Hub](/islamic-sciences/general-studies/hub.md) - the general studies hub of any other topic that isn't covered by Islamic Sciences
 ## Sects
-* [Development of Sects](/sects/sectshistory.md)
-* [Sunni](/sects/sunni.md)
-* [Shia](/sects/shia.md)
-* [Other Sects](/sects/sectsmisc.md)
+* [Development of Sects](/sects/sectshistory.md) - about the creation of sects
+* [Sunni](/sects/sunni.md) - about sunni islam and sunni teachings
+* [Shia](/sects/shia.md) - about shia islam and shia teachings
+* [Other Sects](/sects/sectsmisc.md) - all the other sects of islam
 ## Development
 * [Github](https://github.com/Islamic-Hub)
 * [Development Wiki](https://islam.miraheze.org/dev_wiki)
